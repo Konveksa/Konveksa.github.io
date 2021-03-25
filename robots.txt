@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendor/
+Disallow: /styles/
+
+Sitemap: https://seobinggo.gq/sitemap.xml
